@@ -1,0 +1,18 @@
+---
+manufacturer: Cisco
+model: UCSC-MLOM-C25Q-04
+part_number: UCSC-MLOM-C25Q-04
+model: Cisco UCS VIC 1457 4-Port 10 25G SFP28 MLOM
+interfaces:
+  - name: TwentyFiveGigE0/0/0/1
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: TwentyFiveGigE0/0/0/2
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: TwentyFiveGigE0/0/0/3
+    type: 25gbase-x-sfp28
+    mgmt_only: false
+  - name: TwentyFiveGigE0/0/0/4
+    type: 25gbase-x-sfp28
+    mgmt_only: false
